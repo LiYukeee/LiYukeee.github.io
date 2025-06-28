@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenhao Zhang"
+title                    : "LiYuke"
 description              : "VDI,SIST,ShanghaiTech University"
-repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
+repository               : "LiYukeee/LiYukeee.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenhao Zhang 章震豪"
+  name             : "LiYuke 李宇科"
   avatar           : "images/me.png"
   bio              : "Master Student"
   location         : "Shanghai, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhenhao-Zhang"
+  github           : "LiYukeee"
   google_plus      :
   keybase          :
   instagram        :
