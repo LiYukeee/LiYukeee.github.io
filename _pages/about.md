@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Xin Lou](https://sist.shanghaitech.edu.cn/louxin/main.htm), who are experts in the field of VLSI and 3DV. I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),Generative AI and Embodied AI. Now I focus on the topic of Spatial Intelligence of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/), [**Preception**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include NVS, 3DGS. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
-
-
+Email: liyuke@shanghaitech.edu.cn  or liyukee@qq.com
 
 
 
 
-# 🔥 News
-- *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**!
+
+
+<!-- # 🔥 News
+- *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**! -->
 
 
 # 📝 Publications 
@@ -40,14 +40,13 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/DuplexGS/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
+**Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting**
 
-**Zhenhao Zhang**, Ye Shi†, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang†
+Weihang Liu, **Yuke Li**, Yuxuan Li, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior Member, IEEE
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
 </div>
 
@@ -55,16 +54,17 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/CityGo/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
+**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**
 
-Hanqing Wang\*†, **Zhenhao Zhang\***, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Weihang Liu\*, Yuhui Zhong\*, **Yuke Li\***, Xi Chen, Jiadi Cui, Honglong Zhang, Lan Xu, Xin Lou, Yujiao Shi, Jingyi Yu, Yingliang Zhang†
 
-[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
+[[**Paper**]](https://arxiv.org/abs/2505.21041)[[**Project Page**]](https://citygo-weihang.github.io/page/)
 
-Student First-author
+<!-- [![paper](https://img.shields.io/badge/arXiv-2505.21041-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.21041)[[**Project Page**]](https://citygo-weihang.github.io/page/) -->
+
 </div>
 </div>
 
@@ -74,38 +74,27 @@ Student First-author
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCVG</div><img src='papers/CoARF++/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
+**CoARF++: Content-Aware Radiance Field Aligning Model Complexity with Scene Intricacy**
 
-Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi†
+Weihang Liu, Xue Xian Zheng, Yuke Li, Tareq Y. Al-Naffouri, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior Member, IEEE
 
-[![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
+[[**Paper**]](https://ieeexplore.ieee.org/document/10981670)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/RVSHMM/RVSHMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
-
-**Zhenhao Zhang**, Yunquan Song†
-
-[![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
-
-I finished this work in 2023 when I was an undergraduate student intern in the Department of Data Science and Statistics.
-</div>
-</div>
 
 
-# 🎖 Honors and Awards
+
+<!-- # 🎖 Honors and Awards
 - *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
 - *2023.4*,Shandong First Prize in Group A, LanQiao Cup
 - *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition:Feedback Prize - English Language Learning
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
-- *2021.4*,Shandong First Prize in Group A, LanQiao Cup
+- *2021.4*,Shandong First Prize in Group A, LanQiao Cup -->
 
 
 <!-- # 🎖 Honors and Awards
@@ -140,14 +129,9 @@ MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VD
 <span style="font-size:18px;">**China University of Petroleum**</span>
 
 *2020.09 - 2024.06*
+College of Science
 
-School of Computer Science and Technology
-
-Major: B.E. in **Computer Science and Technology**
-
-Intern in Department of Data Science and Statistics
-
-Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
+Major: B.E. in **Data Science**
 
 </div>
 </div>
@@ -185,7 +169,7 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 
 
-# 💼 Services
+<!-- # 💼 Services
 *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
 *  Association Member: CAA Member, CCF Student Member
 
@@ -194,4 +178,4 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 <!-- I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **Austin**, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**J**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent! -->
 
 - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
-- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9)
+- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9) -->
