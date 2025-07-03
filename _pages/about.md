@@ -40,7 +40,7 @@ Email: liyuke@shanghaitech.edu.cn  or liyukee@qq.com
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/DuplexGS/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">---</div><img src='papers/DuplexGS/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting**
@@ -54,7 +54,7 @@ Weihang Liu, **Yuke Li**, Yuxuan Li, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/CityGo/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/CityGo/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**
@@ -118,8 +118,6 @@ Weihang Liu, Xue Xian Zheng, Yuke Li, Tareq Y. Al-Naffouri, Jingyi Yu, Fellow, I
 School of Information Science and Technology
 
 Major: M.S. in **Computer Science**
-
-MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VDI Center, YesAI Lab
 </div>
 </div>
 
@@ -136,7 +134,7 @@ Major: B.E. in **Data Science**
 </div>
 </div>
 
-# 💻 Internship
+<!-- # 💻 Internship
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,9 +147,9 @@ AI Agent System Development Intern: LLMs, FinTech
 
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
@@ -165,7 +163,7 @@ Visiting Student: Reinforcement Learning, Embodied AI
 Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -177,5 +175,5 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 <!-- I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **Austin**, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**J**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent! -->
 
-- Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
-- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9) -->
+<!-- - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
+- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/),[Tianxiang Gui](https://shiki-ta.github.io/),[Ke Hu](https://openreview.net/profile?id=~Ke_Hu9) --> 
