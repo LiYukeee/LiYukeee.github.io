@@ -21,7 +21,7 @@ I am Current a First-year Master student in ShanghaiTech University under the su
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include NVS, 3DGS. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include NVS, 3DGS. Click [**Here**](https://liyukeee.github.io/CV/liyuke.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
 Email: liyuke@shanghaitech.edu.cn  or liyukee@qq.com
 
@@ -79,7 +79,7 @@ Weihang Liu\*, Yuhui Zhong\*, **Yuke Li\***, Xi Chen, Jiadi Cui, Honglong Zhang,
 
 **CoARF++: Content-Aware Radiance Field Aligning Model Complexity with Scene Intricacy**
 
-Weihang Liu, Xue Xian Zheng, Yuke Li, Tareq Y. Al-Naffouri, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior Member, IEEE
+Weihang Liu, Xue Xian Zheng, **Yuke Li**, Tareq Y. Al-Naffouri, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior Member, IEEE
 
 [[**Paper**]](https://ieeexplore.ieee.org/document/10981670)
 </div>
