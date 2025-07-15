@@ -74,7 +74,7 @@ Weihang Liu\*, Yuhui Zhong\*, **Yuke Li\***, Xi Chen, Jiadi Cui, Honglong Zhang,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCVG</div><img src='papers/CoARF++/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG</div><img src='papers/CoARF++/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CoARF++: Content-Aware Radiance Field Aligning Model Complexity with Scene Intricacy**
