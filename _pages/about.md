@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Xin Lou](https://sist.shanghaitech.edu.cn/louxin/main.htm), who are experts in the field of VLSI and 3DV. I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a Second-year Master student in ShanghaiTech University under the supervision of [Prof. Xin Lou](https://sist.shanghaitech.edu.cn/louxin/main.htm), who are experts in the field of VLSI and 3DV. I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
