@@ -40,7 +40,7 @@ Email: liyuke@shanghaitech.edu.cn  or liyukee@qq.com
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">---</div><img src='papers/DuplexGS/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/DuplexGS/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting**
@@ -56,7 +56,7 @@ Weihang Liu, **Yuke Li**, Yuxuan Li, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/CityGo/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2025</div><img src='papers/CityGo/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**
