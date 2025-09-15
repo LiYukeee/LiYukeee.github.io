@@ -47,6 +47,8 @@ Email: liyuke@shanghaitech.edu.cn  or liyukee@qq.com
 
 Weihang Liu, **Yuke Li**, Yuxuan Li, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior Member, IEEE
 
+[[**Arxiv**]](https://arxiv.org/abs/2508.03180)
+
 </div>
 </div>
 
@@ -61,7 +63,7 @@ Weihang Liu, **Yuke Li**, Yuxuan Li, Jingyi Yu, Fellow, IEEE, Xin Lou†, Senior
 
 Weihang Liu\*, Yuhui Zhong\*, **Yuke Li\***, Xi Chen, Jiadi Cui, Honglong Zhang, Lan Xu, Xin Lou, Yujiao Shi, Jingyi Yu, Yingliang Zhang†
 
-[[**Paper**]](https://arxiv.org/abs/2505.21041)[[**Project Page**]](https://citygo-weihang.github.io/page/)
+[[**Arxiv**]](https://arxiv.org/abs/2505.21041)[[**Project Page**]](https://citygo-weihang.github.io/page/)
 
 <!-- [![paper](https://img.shields.io/badge/arXiv-2505.21041-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.21041)[[**Project Page**]](https://citygo-weihang.github.io/page/) -->
 
